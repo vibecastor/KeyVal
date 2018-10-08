@@ -1,0 +1,16 @@
+@import 'src/assets/styles/base/baseExport';
+
+.parent {
+  width: 100vw;
+  color: $white;
+  font-size: 22px;
+  background: $blue;
+  display: block;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+
+  p {
+    padding: 0 25px;
+  }
+}
